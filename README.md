@@ -1,6 +1,6 @@
 **写在前头:本插件工程只适用 android studio和 Intellij IDEA 工具**
 
-这是一个RxBus事件订阅与反订阅代码生成的Intellij Idea插件，练手写的Intellij项目，为了解决项目开发中一直重复的copy代码问题
+这是一个RxBus事件订阅与反订阅代码生成的Intellij Idea插件工程，练手写的Intellij插件项目，为了解决项目开发中一直重复的copy代码问题
 
 ## 参考资料
 
