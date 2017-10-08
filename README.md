@@ -1,8 +1,8 @@
 **写在前头:本插件工程只适用 android studio和 Intellij IDEA 工具**
 
-这是一个RxBus事件订阅与反订阅代码生成的Intellij Idea插件，练手写的Intellij项目，也解决了之前一直重复的copy代码问题
+这是一个RxBus事件订阅与反订阅代码生成的Intellij Idea插件，练手写的Intellij项目，为了解决项目开发中一直重复的copy代码问题
 
-##参考资料
+## 参考资料
 
 [Blog](http://blog.csdn.net/lmj623565791/article/details/51548272)
 
@@ -12,10 +12,10 @@
 
 [jetbrains](https://plugins.jetbrains.com/plugin/7654?pr=androidstudio)
 
-##使用截图
+## 使用截图
+安装Plugin:
 ![image](https://github.com/pengliangAndroid/RxSubscription/blob/master/screenshot/install.jpg) 
 
 
-
-
-![image](https://github.com/pengliangAndroid/RxSubscription/blob/master/screenshot/generate.gif)  
+使用Plugin:
+![image](https://github.com/pengliangAndroid/RxSubscription/blob/master/screenshot/generate.gif)  
