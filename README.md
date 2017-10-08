@@ -4,13 +4,13 @@
 
 ## 参考资料
 
-[Blog](http://blog.csdn.net/lmj623565791/article/details/51548272)
+[Blog](http://blog.csdn.net/lmj623565791/article/details/51548272) 学会编写Android Studio插件 别停留在用的程度了
 
 [GsonFormat](https://github.com/zzz40500/GsonFormat) Gson转化为实体类的插件
 
 [butterknife](https://github.com/avast/android-butterknife-zelezny) 视图代码绑定的快速生成插件
 
-[jetbrains](https://plugins.jetbrains.com/plugin/7654?pr=androidstudio)
+[jetbrains](https://plugins.jetbrains.com/plugin/7654?pr=androidstudio) jetbrains openapi doc
 
 ## 使用截图
 安装Plugin:
