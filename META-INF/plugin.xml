@@ -1,0 +1,38 @@
+<idea-plugin version="2">
+  <id>com.wstro.rxsubscription</id>
+  <name>RxSubscription</name>
+  <version>1.0</version>
+  <vendor email="pengl@wstro.com" url="http://www.wstro.com">Wstrong</vendor>
+
+  <description><![CDATA[
+     this is a rxbus subscription generator,for fast add a event register.<br>
+      <em>based on RxBus</em>
+    ]]></description>
+
+  <change-notes><![CDATA[
+      first version.<br>
+    ]]>
+  </change-notes>
+
+  <!-- please see https://confluence.jetbrains.com/display/IDEADEV/Build+Number+Ranges for description -->
+  <idea-version since-build="131"/>
+
+  <!-- please see https://confluence.jetbrains.com/display/IDEADEV/Plugin+Compatibility+with+IntelliJ+Platform+Products
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+
+  <actions>
+    <action id="RxSubscription" class="com.wstro.rxsubscription.MainAction" text="RxSubscription">
+      <add-to-group group-id="GenerateGroup" anchor="last"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="ctrl R"/>
+    </action>
+  </actions>
+
+</idea-plugin>
